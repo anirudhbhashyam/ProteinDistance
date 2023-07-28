@@ -1,0 +1,25 @@
+ID,Name
+ZIMJ680102,Bulkiness
+ZIMJ680104,Isoelectric point 
+HUTJ700102,Absolute entropy 
+DAWD720101,Size 
+GRAR740102,Polarity 
+GRAR740103,Volume 
+FASG760101,Molecular weight 
+FASG760102,Melting point 
+FASG890101,Hydrophobicity index 
+ZHOH040101,The stability scale from the knowledge-based atom-atom potential
+OOBM770103,Long range non-bonded energy per atom
+MANP780101,Average surrounding hydrophobicity
+WOLR790101,Hydrophobicity index 
+FAUJ880101,Hydration potential 
+FAUJ880102,Smoothed upsilon steric parameter 
+ARGP820101,Hydrophobicity index 
+VELV850101,Electron-ion interaction potential 
+FAUJ880111,Positive charge 
+FAUJ880112,Negative charge 
+FAUJ880109,Number of hydrogen bond donors 
+KYTJ820101,Hydropathy index 
+BHAR880101,Average flexibility indices  
+Nl,Long-range contacts 
+Rk,Relative connectivity 
