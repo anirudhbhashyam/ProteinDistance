@@ -103,7 +103,7 @@ def main(args: argparse.Namespace) -> int:
     features = aa_features["ID"].tolist()
     seq_1, seq_2 = itertools.islice(read_fasta(args.fasta_filepath), 2)
     dxy = run(seq_1, seq_2, features, aa_data)
-        print(dxy)
+    print(dxy)
     return 0
 
 
